@@ -1,7 +1,4 @@
 # -VR-Time-Series-Classification-for-Skill-Level-Assessment-
-Certainly! Below is a detailed explanation of all the previously provided code, formatted as a `README.md` file for GitHub.
-
----
 
 # Time Series Classification with Random Forest for VR Expertise Level
 
@@ -216,7 +213,5 @@ project/
 └── main.py
 ```
 
----
 
-This setup provides a complete framework for VR time series classification, allowing you to classify new users based on their interaction patterns, potentially aiding in skill assessment and training insights.
 
